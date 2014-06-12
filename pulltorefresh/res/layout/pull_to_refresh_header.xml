@@ -50,9 +50,9 @@
         android:text="@string/pull_to_refresh_tap_label"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:textStyle="bold"
-        android:paddingTop="5dip"
+        android:paddingTop="1dip"
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dip"
         android:layout_gravity="center"
         android:gravity="center"
         />
